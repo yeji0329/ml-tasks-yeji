@@ -26,3 +26,6 @@ datasets/
 *.pth
 *.ckpt
 *.h5
+
+# Task1 训练成果权重很小，作为任务交付物入库
+!Jotang-ml-task1/mlp_moons.pth
