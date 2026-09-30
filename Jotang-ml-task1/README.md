@@ -6,13 +6,14 @@
 
 - Python 3.12（ml-env 虚拟环境）
 - torch 2.10.0+cu128、scikit-learn、matplotlib
-- 运行方式：Jupyter Notebook 打开 task1_step1.ipynb，按 cell 顺序执行
+- 运行方式：Jupyter Notebook 打开 task1_step1.ipynb 按 cell 顺序执行，或直接 `python task1.py` 运行合并版脚本
 
 ## 文件说明
 
 | 文件 | 内容 |
 |---|---|
-| task1_step1.ipynb | 全部代码：数据生成、模型、训练、评估、保存 |
+| task1_step1.ipynb | 全部代码及运行输出：数据生成、模型、训练、评估、保存 |
+| task1.py | 与 notebook 等价的完整代码（单文件版，无注释） |
 | note.md | 学习笔记（实验记录 + 七问自答 + 踩坑实录） |
 | data.png | make_moons 数据散点图 |
 | curves.png | train/val loss 与 val accuracy 训练曲线 |
