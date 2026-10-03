@@ -8,7 +8,7 @@ yeji 的工作室招新题目仓库（机器学习方向）。基础题（Linux 
 |---|---|---|---|
 | 1 | 机器学习入门 | Jotang-ml-task0 | 已完成 |
 | 2 | 简单神经网络 | Jotang-ml-task1 | 已完成 |
-| 3 | 猫狗分类 | 待建 | 未开始 |
+| 3 | 猫狗分类 | Jotang-ml-task2 | 已完成 |
 | 4 | loss.backward() | 待建 | 未开始 |
 | 5 | All you need is attention | 待建 | 未开始 |
 | 6 | 拓展：VLM 从这里开始 —— CLIP（选做） | 待建 | 未做 |
