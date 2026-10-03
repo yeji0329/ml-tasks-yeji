@@ -29,3 +29,6 @@ datasets/
 
 # Task1 训练成果权重很小，作为任务交付物入库
 !Jotang-ml-task1/mlp_moons.pth
+
+# Task2 猫狗分类器权重，配合 infer.py 使用，作为交付物入库
+!Jotang-ml-task2/cats_dogs_cnn.pth
