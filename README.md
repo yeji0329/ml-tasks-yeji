@@ -11,7 +11,7 @@ yeji 的工作室招新题目仓库（机器学习方向）。基础题（Linux 
 | 3 | 猫狗分类 | Jotang-ml-task2 | 已完成 |
 | 4 | loss.backward() | Jotang-ml-task3 | 已完成 |
 | 5 | All you need is attention | Jotang-ml-task4 | 已完成 |
-| 6 | 拓展：VLM 从这里开始 —— CLIP（选做） | 待建 | 未做 |
+| 5 | 拓展：VLM 从这里开始 —— CLIP | Jotang-ml-task5 | 已完成 |
 
 ## 约定
 
