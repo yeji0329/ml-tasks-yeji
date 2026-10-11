@@ -11,7 +11,7 @@ yeji 的工作室招新题目仓库（机器学习方向）。基础题（Linux 
 | 3 | 猫狗分类 | Jotang-ml-task2 | 已完成 |
 | 4 | loss.backward() | Jotang-ml-task3 | 已完成 |
 | 5 | All you need is attention | Jotang-ml-task4 | 已完成 |
-| 5 | 拓展：VLM 从这里开始 —— CLIP | Jotang-ml-task5 | 已完成 |
+| 6 | 拓展：VLM 从这里开始 —— CLIP | Jotang-ml-task5 | 已完成 |
 
 ## 约定
 
@@ -19,9 +19,3 @@ yeji 的工作室招新题目仓库（机器学习方向）。基础题（Linux 
 - 学习过程用截图 + 文字记录：遇到的困难、解决的过程
 - 有奇思妙想随手记录在对应题目的笔记里，并检索是否有人做过类似尝试
 - 重质不重量，拓展题量力而行
-
-## 已完成的基础题
-
-- Linux & Shell：https://github.com/yeji0329/yeji
-- Make & CMake：https://github.com/yeji0329/make-cmake-recuit-yeji
-- AI 使用说明：https://github.com/yeji0329/ai-usage-yeji
